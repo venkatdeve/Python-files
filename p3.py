@@ -1,0 +1,5 @@
+name = input("enter name = ")
+age = int(input("Enter age = "))
+boolean = bool(input("enter true or false"))
+value = float(input("enter decimal value"))
+print(name , age , boolean , value)
